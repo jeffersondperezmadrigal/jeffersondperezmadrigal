@@ -30,7 +30,11 @@
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  
 </p>
 
-
+<p align="right">
+  <a align="right target="_blank" href="https://www.credly.com/badges/ba98878f-c214-4002-96f9-d93730312a42/public_url">
+    <img src="https://images.credly.com/size/680x680/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png" alt="Hashicorp Terraform Certified Associate" width="80" height="80" />
+  </a>
+</p>
 
 ---
 <p align="right">
