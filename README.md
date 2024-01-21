@@ -13,21 +13,42 @@
 </p>
 
 ---
-#### :satellite: Skills
+#### Cloud Providers
+
+- ![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoftazure&logoColor=%23FFFFFF&color=%230078D4)
+- ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=for-the-badge&logo=amazonaws&logoColor=%23FFFFFF&color=%23FF9900)
+
+#### Automation
+
+- ![Jenkins](https://img.shields.io/badge/Jenkins-black?style=for-the-badge&logo=jenkins&logoColor=%23FFFFFF&color=%23000000)
+- ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=%23FFFFFF&color=%232496ED)
+- ![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=%23FFFFFF&color=%23844FBA)
+- ![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible&logoColor=%23FFFFFF&color=%23EE0000)
+- ![Packer](https://img.shields.io/badge/Packer-black?style=for-the-badge&logo=packer&logoColor=%23FFFFFF&color=%2302A8EF)
+
+#### Programming
+
+- ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=%23FFFFFF&color=%233776AB)
+- ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=%23FFFFFF&color=%23092E20)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=%23FFFFFF&color=%23009688)
+
+#### Operative Systems
+
+- ![Centos](https://img.shields.io/badge/centos-black?style=for-the-badge&logo=centos&logoColor=%23FFFFFF&color=%23262577)
+- ![Amazon Linux](https://img.shields.io/badge/amazon%20linux-black?style=for-the-badge&logo=amazon&logoColor=%23FFFFFF&color=%23FF9900)
+- ![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=%23FFFFFF&color=%23E95420)
+- ![Mac OS](https://img.shields.io/badge/mac%20os-black?style=for-the-badge&logo=apple&logoColor=%23FFFFFF&color=%23000000)
+
+#### Other
+
 <p align="left">
-  <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Terraform" src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  
+
+
 </p>
 
 <p align="right">
